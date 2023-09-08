@@ -1,0 +1,27 @@
+body{
+    width: auto;
+    background-color: midnightblue;
+    image-rendering: auto;
+}
+
+
+header{
+    background-color:skyblue; 
+
+}
+
+
+h2 {
+    color: red; 
+    text-align: center;
+    margin: 0;
+    background-color: black;
+    width: auto;
+    height: 100px;
+    
+}
+
+section{
+    background-color: red;
+    text-emphasis-color: white;
+}
